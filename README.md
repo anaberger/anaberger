@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2> Olá, eu sou a Ana! <img src="https://media.giphy.com/media/7NloJqPEdWl7lUb6Uj/giphy.gif" width="50"></h2>
+
+
 
 <!--
 **anaberger/anaberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>Instrutora de Fundamentos JavaScritp na @ Trybe <img src="https://media.giphy.com/media/y5OffROvBod0s/giphy.gif?cid=ecf05e47hn745v44azqzd2s9fsdnqhaoobs2i2ftaxfwqaha&rid=giphy.gif&ct=g" width="50"></p>
