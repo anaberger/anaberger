@@ -16,4 +16,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Instrutora de Fundamentos JavaScritp na @ Trybe <img src="https://media.giphy.com/media/y5OffROvBod0s/giphy.gif?cid=ecf05e47hn745v44azqzd2s9fsdnqhaoobs2i2ftaxfwqaha&rid=giphy.gif&ct=g" width="50"></p>
+<div style="display: flex;">
+<a href="https://twitter.com/anahktty">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ana-laura-berger/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
+</div>
+</br>
+
+
+<p>Instrutora de Fundamentos JavaScritp na @ Trybe <img src="https://media.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif?cid=ecf05e47gv5f7ukbcnnxd5pi9kijd5e3b56k0hakqn591ogv&rid=giphy.gif&ct=s" width="50"> & dev front-end</p>
+
+
+---
+
+### Quem sou eu <img src="https://media.giphy.com/media/UQsHPXWUijXGwdEGeZ/giphy.gif?cid=ecf05e47yg8ptjwotii05ygoqrvvsuqp27o7d8duy3asxqaf&rid=giphy.gif&ct=s" width="50">
+
+
+```javascript
+const ana = {
+  pronouns: "she" || "her",
+  code: [HTML5, CSS3, React, Next, Javascript, Typescript],
+  tools: [Storybook, Styled-Components,MaterialUi], 
+}
+```
+
+
+
+
+
