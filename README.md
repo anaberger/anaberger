@@ -19,16 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display: flex;">
-<a href="https://twitter.com/anahhbgr">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ana-laura-berger/">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
-</div>
-</br>
-
 
 <p>Instrutora de Fundamentos JavaScript na @ Trybe <img src="https://media.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif?cid=ecf05e47gv5f7ukbcnnxd5pi9kijd5e3b56k0hakqn591ogv&rid=giphy.gif&ct=s" width="50"> & dev front-end</p>
 
